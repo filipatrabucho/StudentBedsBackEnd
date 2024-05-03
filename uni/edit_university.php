@@ -2,7 +2,7 @@
 // Configurações do banco de dados
 $servername = "localhost";
 $username = "root";
-$password = ""; // Insira sua senha do banco de dados aqui
+$password = ""; 
 $dbname = "studentbeds";
 
 // Estabelece uma conexão com o banco de dados

@@ -7,7 +7,7 @@ header("Access-Control-Allow-Headers: Content-Type, Authorization");
 // Configurações de conexão com o banco de dados
 $servername = "localhost";
 $username = "root";
-$password = ""; // Insira a senha do banco de dados aqui
+$password = ""; 
 $dbname = "studentbeds";
 
 // Estabelece conexão com o banco de dados
